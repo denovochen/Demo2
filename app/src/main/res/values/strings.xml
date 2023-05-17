@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">denovochen</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="signup">注册</string>
+    <string name="login">登录</string>
+    <string name="hint1">请输入用户名</string>
+    <string name="hint2">请输入密码</string>
+    <string name="hint3">请确认密码</string>
+    <string name="welcome">欢迎 Welcome</string>
+</resources>
